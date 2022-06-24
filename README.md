@@ -11,7 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 [link](https://github.com/GregKedrovsky/GregKedrovsky/blob/main/README.md#heading-3) to header
 
-**[`List`](#list)**__
+Contents
+--------
+**&nbsp;&nbsp;&nbsp;** **1. Collections:** **&nbsp;** **[`List`](#list)**__,__ **[`Dictionary`](#dictionary)**__,__ **[`Set`](#set)**__,__ **[`Tuple`](#tuple)**__,__ **[`Range`](#range)**__,__ **[`Enumerate`](#enumerate)**__,__ **[`Iterator`](#iterator)**__,__ **[`Generator`](#generator)**__.__ 
+
+
 
 # Heading 1
 
