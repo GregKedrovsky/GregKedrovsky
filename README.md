@@ -19,6 +19,8 @@ Testing
 
 **[List](#list)**
 
+`code tick marks`
+
 # Heading 1
 
 text. text. text. text. text. text. text. text. 
