@@ -23,8 +23,10 @@ Testing
 
 # I need a Python Cheat Sheet Repo...
 
+```
 if __name__ == '__main__':     # Runs main() if file wasn't imported.
     main()
+```
 
 [`explanation`](https://www.freecodecamp.org/news/if-name-main-python-example/)
 - The variable __name__ for the file/module that is run will be always __main__.
