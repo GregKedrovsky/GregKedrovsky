@@ -19,7 +19,7 @@ Testing
 
 **[List](#list)**
 
-`code tick marks`
+`he got the box around the word by enclosing it in code tick marks`
 
 # Heading 1
 
