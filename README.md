@@ -9,7 +9,7 @@ GregKedrovsky/GregKedrovsky is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[link](https://github.com/GregKedrovsky/GregKedrovsky/blob/main/README.md#heading-1) to header
+[link](https://github.com/GregKedrovsky/GregKedrovsky/blob/main/README.md#heading-3) to header
 
 # Heading 1
 
