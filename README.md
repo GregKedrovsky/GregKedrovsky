@@ -17,7 +17,7 @@ Testing
 
 **[`List`](#list)**.
 
-
+**[List](#list)**
 
 # Heading 1
 
