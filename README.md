@@ -21,9 +21,14 @@ Testing
 
 `he got the box around the word by enclosing it in code tick marks`
 
-# Heading 1
+# I need a Python Cheat Sheet Repo...
 
-text. text. text. text. text. text. text. text. 
+if __name__ == '__main__':     # Runs main() if file wasn't imported.
+    main()
+
+[`explanation`](https://www.freecodecamp.org/news/if-name-main-python-example/)
+- The variable __name__ for the file/module that is run will be always __main__.
+- But the __name__ variable for all other modules that are being imported will be set to their module's name.
 
 # Heading 2
 
