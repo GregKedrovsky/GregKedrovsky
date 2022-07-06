@@ -1,5 +1,8 @@
 Working through tutorials on git and GitHub... so... it's a mess, I know.
 
+Put main info in the README.md
+EXAMPLE: https://github.com/gto76/python-cheatsheet/
+
 <!---
 GregKedrovsky/GregKedrovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
