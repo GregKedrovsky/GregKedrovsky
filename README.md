@@ -3,7 +3,7 @@
 I really don't like to be bored so I look for projects that are interesting. Right now, at this point in my life, I'm working toward the OSCP, following a path laid out for a newbie in a [book](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307/ref=sr_1_1) I read. 
 - I'm currently studying for the CompTIA [Security+](https://www.comptia.org/certifications/security) certification exam (need terminology, concepts, etc.).
 - While I'm doing that, I'm also using Codecademy for "fun practice" and mini-projects to brush up on my "skills" (git, python, bash, etc.).
-- Next on the certification list after Sec+ is [PenTest+](https://www.comptia.org/certifications/pentest) (and I'm looking at [TryHackMe.com] for "lab work").
+- Next on the certification list after Sec+ is [PenTest+](https://www.comptia.org/certifications/pentest) (and I'm looking at [TryHackMe.com](https://tryhackme.com/) for "lab work").
 
 # My GitHub
 
