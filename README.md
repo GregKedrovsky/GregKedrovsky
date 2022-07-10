@@ -11,19 +11,17 @@ This is the place I store all my projects.
 - Right now I'm working through Codecademy's git and GitHub course, so I have a lot of repos that will likely get deleted soon.
 - After git/GitHub, I'll be doing some Python.
 
+# Resources
 
+**Markdown**
+- [Quick Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [GitHub: Basics](https://github.github.com/gfm/)
+- [GitHub: GFM](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [CommonMark](https://commonmark.org/help/)
 
-----
-Working through tutorials on git and GitHub... so... it's a mess, I know.
+# Sandbox
 
-Resources
-----
-
-Need a section for links to cheat sheets, examples, man pages, etc. 
-
-----
-
-Put main info in the README.md
+Okay... from here down is basically just "notes to self" that I've dumped in here to look over and play with later on.
 
 EXAMPLE: https://github.com/gto76/python-cheatsheet/
 
