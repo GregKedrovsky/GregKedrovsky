@@ -3,6 +3,15 @@
 I'm working toward the OSCP, following a path laid out for a newbie. 
 - I'm currently studying for the CompTIA Security+ certification exam (need terminology, concepts, etc.).
 - While I'm doing that, I'm also using Codecademy for "fun practice" and mini-projects to brush up on my "skills" (git, python, bash, etc.).
+- Next on the certification list after Sec+ is PenTest+
+
+# My GitHub
+
+This is the place I store all my projects. 
+- Right now I'm working through Codecademy's git and GitHub course, so I have a lot of repos that will likely get deleted soon.
+- After git/GitHub, I'll be doing some Python.
+
+
 
 ----
 Working through tutorials on git and GitHub... so... it's a mess, I know.
