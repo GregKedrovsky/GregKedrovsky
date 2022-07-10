@@ -1,6 +1,7 @@
 Working through tutorials on git and GitHub... so... it's a mess, I know.
 
-#Resources
+Resources
+----
 
 Need a section for links to cheat sheets, examples, man pages, etc. 
 
