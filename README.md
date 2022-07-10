@@ -19,6 +19,10 @@ This is the place I store all my projects.
 - [GitHub: GFM](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [CommonMark](https://commonmark.org/help/)
 
+**git**
+- [Quick Reference](https://git-scm.com/docs)
+- [Interactive Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html) \(pretty cool visual aid)
+
 # Sandbox
 
 Okay... from here down is basically just "notes to self" that I've dumped in here to look over and play with later on.
