@@ -1,5 +1,8 @@
 # Now
 
+I'm working toward the OSCP, following a path laid out for a newbie. 
+- I'm currently studying for the CompTIA Security+ certification exam (need terminology, concepts, etc.).
+- While I'm doing that, I'm also using Codecademy for "fun practice" and mini-projects to brush up on my "skills" (git, python, bash, etc.).
 
 ----
 Working through tutorials on git and GitHub... so... it's a mess, I know.
