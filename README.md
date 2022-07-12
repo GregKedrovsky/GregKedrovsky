@@ -5,7 +5,7 @@ Outside of work, when I have some of "spare" time, I like to do things that are 
 - While I'm doing that, I'm also using Codecademy for "fun practice" and mini-projects to brush up on my "skills" (git, python, bash, etc.).
 - Next on the certification list after Sec+ is [PenTest+](https://www.comptia.org/certifications/pentest) (and I'm looking at [TryHackMe.com](https://tryhackme.com/) for "lab work").
 
-**Do the Thing**
+## Do the Thing
 
 A recommendation from Daniel Miessler's [Unsupervised Learning NO. 336](https://mailchi.mp/danielmiessler/unsupervised-learning-no-2676132): 
 
