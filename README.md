@@ -1,9 +1,9 @@
 # Now
 
 Outside of work, when I have some of "spare" time, I like to do things that are interesting and profitable. Right now I'm working toward the [OSCP](https://www.offensive-security.com/pwk-oscp/). I'm following a path laid out for newbies in a [book](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307/ref=sr_1_1) I read. 
-- I'm currently studying for the CompTIA [Security+](https://www.comptia.org/certifications/security) certification exam (need terminology, concepts, etc.). My text date is set for Friday, 07/29/2022, at 8:30 in the morning.
+- I just passed the CompTIA [Security+](https://www.comptia.org/certifications/security) certification exam (need terminology, concepts, etc.). 
+- I am currently working through my "cert list," starting with [PenTest+](https://www.comptia.org/certifications/pentest) (and I'm looking at [TryHackMe.com](https://tryhackme.com/) for "lab work").
 - While I'm doing that, I'm also using Codecademy for "fun practice" and mini-projects to brush up on my "skills" (git, python, bash, etc.).
-- Next on the certification list after Sec+ is [PenTest+](https://www.comptia.org/certifications/pentest) (and I'm looking at [TryHackMe.com](https://tryhackme.com/) for "lab work").
 
 ## Do the Thing
 
