@@ -1,18 +1,6 @@
 # Now
 
-Outside of work, when I have some of "spare" time, I like to do things that are interesting and profitable. Right now I'm working toward the [OSCP](https://www.offensive-security.com/pwk-oscp/). I'm following a path laid out for newbies in a [book](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307/ref=sr_1_1) I read. 
-- I just passed the CompTIA [Security+](https://www.comptia.org/certifications/security) certification exam (need terminology, concepts, etc.). 
-- I am currently working through my "cert list," starting with [PenTest+](https://www.comptia.org/certifications/pentest) (and I'm looking at [TryHackMe.com](https://tryhackme.com/) for "lab work").
-- While I'm doing that, I'm also using Codecademy for "fun practice" and mini-projects to brush up on my "skills" (git, python, bash, etc.).
-
-## Do the Thing
-
-A recommendation from Daniel Miessler's [Unsupervised Learning NO. 336](https://mailchi.mp/danielmiessler/unsupervised-learning-no-2676132): 
-
-> If you've been studying and planning to do something cool for a long time, stop it.
-> Do the thing.
-> You can still study after you're doing it, but don't let the studying trick you into thinking you're accomplishing something. You're not. It's a trick.
-> Do the thing.
+I'm currently working on building out [The gMan nixWiki](https://nix.kedrovsky.net/start) in my efforts to work toward the [OSCP](https://www.offensive-security.com/pwk-oscp/).
 
 # My GitHub
 
