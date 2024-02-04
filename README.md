@@ -1,12 +1,8 @@
-# Now
+# Stuff
 
-I'm currently working on building out [The gMan nixWiki](https://nix.kedrovsky.net/start) in my efforts to work toward the [OSCP](https://www.offensive-security.com/pwk-oscp/).
-
-# My GitHub
-
-This is the place I store all my projects. 
-- Right now I'm working through Codecademy's git and GitHub course, so I have a lot of repos that will likely get deleted soon.
-- After git/GitHub, I'll be doing some Python.
+I just finished the eJPT exam (fun!) and now I'm working on organizing my notes (commands, "cheat sheets," etc.) here in GitHub. While I'm doing that, I've started playing around with [Hack the Box](https://www.hackthebox.com/) for practice. 
+- Next on my list is TCM's [PNPT](https://certifications.tcm-sec.com/pnpt/).
+- But I gotta get my notes organized first... 
 
 # Resources
 
@@ -44,7 +40,7 @@ Testing
 
 **[List](#list)**
 
-`he got the box around the word by enclosing it in code tick marks`
+`get the box around the word or phrase by enclosing it in code tick marks`
 
 # I need a Python Cheat Sheet Repo...
 
